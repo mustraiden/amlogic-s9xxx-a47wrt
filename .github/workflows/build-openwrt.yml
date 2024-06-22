@@ -208,7 +208,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - A47Wrt
 
 env:
   FEEDS_CONF: config/${{ inputs.source_branch }}/feeds.conf.default
