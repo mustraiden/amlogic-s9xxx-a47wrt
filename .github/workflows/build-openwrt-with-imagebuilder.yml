@@ -204,7 +204,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - A47Wrt
 
 env:
   TZ: America/New_York
