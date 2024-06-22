@@ -69,7 +69,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -A47Wrt
 
 env:
   TZ: America/New_York
