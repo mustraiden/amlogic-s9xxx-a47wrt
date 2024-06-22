@@ -198,8 +198,8 @@ For more information, please refer to the [User Documentation](./documents)
 | ---- | ---- |
 | Default IP | 192.168.1.1 |
 | Default Account | root |
-| Default Password | password |
-| Default WIFI Name | OpenWrt |
+| Default Password | merdeka |
+| Default WIFI Name | A47Wrt |
 | Default WIFI Password | None |
 
 ## Compile the Kernel
