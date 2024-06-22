@@ -305,8 +305,8 @@ jobs:
             ### OpenWrt Image information
             - Default IP: 192.168.1.1
             - Default username: root
-            - Default password: password
-            - Default WIFI name: OpenWrt
+            - Default password: merdeka
+            - Default WIFI name: A47wrt
             - Default WIFI password: none
             ### Install to EMMC
             - Login to OpenWrt → System → Amlogic Service → Install OpenWrt
